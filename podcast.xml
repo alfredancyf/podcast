@@ -3,7 +3,7 @@
   <channel>
     <title>循迹</title>
     <link>https://yourname.github.io/podcast/podcast.xml</link>
-    <description>通过音频内置时间戳完美修复 pubDate 排序</description>
+    <description>通过音频内置时间戳完美修复 pubDate 排序及显示时长</description>
     <atom:link href="https://yourname.github.io/podcast/podcast.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
@@ -13,7 +13,7 @@
       <link>https://yourname.github.io/podcast/podcast.xml</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 12:47:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 13:14:31 +0000</lastBuildDate>
     <item>
       <title>俄罗斯筹军费：打仗能有多烧钱？</title>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1767191618_x1k5s7mju3w2zi.mp3</guid>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>循迹</title>
+    <title>小鹅通私人播客源 (时间修复版)</title>
     <link>https://yourname.github.io/podcast/podcast.xml</link>
     <description>通过音频内置时间戳完美修复 pubDate 排序</description>
     <atom:link href="https://yourname.github.io/podcast/podcast.xml" rel="self"/>
@@ -9,11 +9,11 @@
     <generator>python-feedgen</generator>
     <image>
       <url>http://wechatapppro-1252524126.cdn.xiaoeknow.com/appq9jtJc2T2160/image/b_u_62f24586986a8_PKH42L0g/dyvg9gmjz9qsqm.jpg</url>
-      <title>循迹</title>
+      <title>小鹅通私人播客源 (时间修复版)</title>
       <link>https://yourname.github.io/podcast/podcast.xml</link>
     </image>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 12:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 12:43:10 +0000</lastBuildDate>
     <item>
       <title>俄罗斯筹军费：打仗能有多烧钱？</title>
       <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;俄罗斯筹军费：打仗能有多烧钱？]]&gt;</description>
@@ -573,6 +573,34 @@
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779938143_mjclmvmpox42cm.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779938143_mjclmvmpox42cm.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 28 May 2026 11:15:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>努尔哈赤形象：率领“八旗解放军”拯救全人类</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;努尔哈赤形象：率领“八旗解放军”拯救全人类]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1780033440_vfuj0cmpqhvns8.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1780033440_vfuj0cmpqhvns8.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 29 May 2026 13:44:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>翻牌：大和号为啥毫无表现？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;翻牌：大和号为啥毫无表现？]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1780061754_v28gv4mpqqli6i.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1780061754_v28gv4mpqqli6i.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 29 May 2026 21:35:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>苏联男女对立：男女平等是假，多产人矿是真  </title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;苏联男女对立：男女平等是假，多产人矿是真  ]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1780367931_9yxkrlmpv1ddt0.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1780367931_9yxkrlmpv1ddt0.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Jun 2026 10:38:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>矿难：以人为本，还是以“矿”为本？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;矿难：以人为本，还是以“矿”为本？]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1780457679_scwqofmpwhcfyd.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1780457679_scwqofmpwhcfyd.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Jun 2026 11:34:39 +0800</pubDate>
     </item>
   </channel>
 </rss>

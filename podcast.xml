@@ -1,573 +1,578 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>小鹅通私人播客源 (方案B真直链)</title>
+    <title>循迹</title>
     <link>https://yourname.github.io/podcast/podcast.xml</link>
-    <description>方案B通过真实音频流请求自动化提取</description>
+    <description>通过音频内置时间戳完美修复 pubDate 排序</description>
     <atom:link href="https://yourname.github.io/podcast/podcast.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>http://wechatapppro-1252524126.cos.ap-shanghai.myqcloud.com/appq9jtJc2T2160/image/compress/414320186ewe8iumju4dg0o.jpg</url>
+      <title>循迹</title>
+      <link>https://yourname.github.io/podcast/podcast.xml</link>
+    </image>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 28 May 2026 15:28:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 12:19:56 +0000</lastBuildDate>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
-      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1767669921_9pmo05mk12400a.mp3</guid>
-      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1767669921_9pmo05mk12400a.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>俄罗斯筹军费：打仗能有多烧钱？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;俄罗斯筹军费：打仗能有多烧钱？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1767191618_x1k5s7mju3w2zi.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1767191618_x1k5s7mju3w2zi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 31 Dec 2025 22:33:38 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>美国军舰命名：川普级战列舰合理吗？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;美国军舰命名：川普级战列舰合理吗？]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1767669921_9pmo05mk12400a.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1767669921_9pmo05mk12400a.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Jan 2026 11:25:21 +0800</pubDate>
+    </item>
+    <item>
+      <title>日本卖台湾：皇军拿命换，“国贼”嫌麻烦？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;日本卖台湾：皇军拿命换，“国贼”嫌麻烦？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1767758058_shmqahmk3hf5rf.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1767758058_shmqahmk3hf5rf.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 07 Jan 2026 11:54:18 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>马杜罗被抓：美军咋能1小时22分直捣总统被窝？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;马杜罗被抓：美军咋能1小时22分直捣总统被窝？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1767840630_jxy46tmk3vgdal.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1767840630_jxy46tmk3vgdal.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 08 Jan 2026 10:50:30 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>斩杀线：大明治下，人人都在斩杀线</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;斩杀线：大明治下，人人都在斩杀线]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1767930403_dkz5nbmk6c1o60.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1767930403_dkz5nbmk6c1o60.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 09 Jan 2026 11:46:43 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>朱元璋的脸：“鞋拔子”是满清黑大明？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;朱元璋的脸：“鞋拔子”是满清黑大明？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1768287208_mu29o5mkc8i8q8.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1768287208_mu29o5mkc8i8q8.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Tue, 13 Jan 2026 14:53:28 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>生擒国家领导人：一国之君才是最炫的战利品</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;生擒国家领导人：一国之君才是最炫的战利品]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1768367423_s40ysxmkdk8x3f.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1768367423_s40ysxmkdk8x3f.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 13:10:23 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>美国抓捕诺列加：马杜罗的老前辈</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;美国抓捕诺列加：马杜罗的老前辈]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1768388151_h3qvh4mkcfqdsd.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1768388151_h3qvh4mkcfqdsd.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 18:55:51 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>160航空团：去非洲偷飞机，去美洲“偷”马杜罗</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;160航空团：去非洲偷飞机，去美洲“偷”马杜罗]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1768474773_sa312qmkfc6b04.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1768474773_sa312qmkfc6b04.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2026 18:59:33 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>民国怀念大明：复明是假，反清是真</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;民国怀念大明：复明是假，反清是真]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1768881821_39barsmkm2h1ly.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1768881821_39barsmkm2h1ly.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Tue, 20 Jan 2026 12:03:41 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>古巴雇佣军：豁出命也没救成马杜罗</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;古巴雇佣军：豁出命也没救成马杜罗]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1769054397_xd81sqmknvzay5.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1769054397_xd81sqmknvzay5.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 22 Jan 2026 11:59:57 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>王室复辟：倒车也是民心所向？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;王室复辟：倒车也是民心所向？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1769575155_nhtqdrmkxjbhzb.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1769575155_nhtqdrmkxjbhzb.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 28 Jan 2026 12:39:15 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>通货膨胀：掠夺民间财富的最后疯狂</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;通货膨胀：掠夺民间财富的最后疯狂]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1769661701_ycblajmkyyua19.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1769661701_ycblajmkyyua19.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 29 Jan 2026 12:41:41 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>亲密战友反目：背叛挚爱亲朋，得加钱！</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;亲密战友反目：背叛挚爱亲朋，得加钱！]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1769745287_79oxbumkzc0vq8.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1769745287_79oxbumkzc0vq8.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 30 Jan 2026 11:54:47 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
-      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770176601_9pwg45ml6gcwk1.mp3</guid>
-      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770176601_9pwg45ml6gcwk1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>审判外国领导人：美国判刑，苏联判死刑</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;审判外国领导人：美国判刑，苏联判死刑]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770176402_106k3bml7h73td.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770176402_106k3bml7h73td.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 11:40:02 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>斩将：威胁到皇上了，能打仗也没用</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;斩将：威胁到皇上了，能打仗也没用]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770176601_9pwg45ml6gcwk1.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770176601_9pwg45ml6gcwk1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Feb 2026 11:43:21 +0800</pubDate>
+    </item>
+    <item>
+      <title>毁陵掘墓：暴君的坟活该被扬</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;毁陵掘墓：暴君的坟活该被扬]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770281273_ogm1irml7uawps.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770281273_ogm1irml7uawps.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 05 Feb 2026 16:47:53 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>极圈战略：把格陵兰岛抢过来，有用吗？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;极圈战略：把格陵兰岛抢过来，有用吗？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770698993_jz29jfmlg4f1f9.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770698993_jz29jfmlg4f1f9.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 12:49:53 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>港口交易：老外卖港口，中国赢麻了？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;港口交易：老外卖港口，中国赢麻了？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770781628_yvahslmlhhm5mp.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770781628_yvahslmlhhm5mp.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 11 Feb 2026 11:47:08 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>伊斯兰奴隶制：新阿富汗必须有奴隶！</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;伊斯兰奴隶制：新阿富汗必须有奴隶！]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770892534_nuo3bnmljbji18.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770892534_nuo3bnmljbji18.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 18:35:34 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>接吻：苏联之吻，见面就啃！</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;接吻：苏联之吻，见面就啃！]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770892689_23dljimljbp3ej.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770892689_23dljimljbp3ej.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 18:38:09 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>马文化：中国人是“马的传人”？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;马文化：中国人是“马的传人”？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770893346_8fc43smljc2nou.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770893346_8fc43smljc2nou.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 18:49:06 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>失败国家：为啥有的国家毫无希望？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;失败国家：为啥有的国家毫无希望？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770894208_dds527mljcm5xc.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770894208_dds527mljcm5xc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 19:03:28 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>晚明改革：“一条鞭法”咋成了大明催命符？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;晚明改革：“一条鞭法”咋成了大明催命符？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770894375_myg5bnmljc2np2.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770894375_myg5bnmljc2np2.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 19:06:15 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>西方的二代们：反美是工作，赴美是生活</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;西方的二代们：反美是工作，赴美是生活]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770977843_sm6vdpmlki5s3d.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770977843_sm6vdpmlki5s3d.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 13 Feb 2026 18:17:23 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>乌兹别克棉花案：棉花咋把苏联“压垮”的？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;乌兹别克棉花案：棉花咋把苏联“压垮”的？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770979970_q72x8mmlkq3g7s.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770979970_q72x8mmlkq3g7s.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 13 Feb 2026 18:52:50 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>日本政党制度：高市上台，军国主义复兴？_</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;日本政党制度：高市上台，军国主义复兴？_]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770980479_ox1zqumlkpu1bq.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1770980479_ox1zqumlkpu1bq.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 13 Feb 2026 19:01:19 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>法统：为什么要尊重宪法？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;法统：为什么要尊重宪法？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1772077926_26ybpcmm2xd7ke.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1772077926_26ybpcmm2xd7ke.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 26 Feb 2026 11:52:06 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>格陵兰：打下格陵兰，一人一头北极熊</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;格陵兰：打下格陵兰，一人一头北极熊]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1772182359_rjv1xfmm4nk5vm.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1772182359_rjv1xfmm4nk5vm.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 27 Feb 2026 16:52:39 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>沙俄仇恨德奥：毛子也有自己的义和团</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;沙俄仇恨德奥：毛子也有自己的义和团]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1772510888_jpq7h8mma35zdd.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1772510888_jpq7h8mma35zdd.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2026 12:08:08 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>烛影斧声：老百姓为啥爱听高墙秘闻？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;烛影斧声：老百姓为啥爱听高墙秘闻？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1772595878_66c3bgmmag4c4e.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1772595878_66c3bgmmag4c4e.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2026 11:44:38 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>哈梅内伊：起于不仁不义，死得轰轰烈烈</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;哈梅内伊：起于不仁不义，死得轰轰烈烈]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1772678882_c1m2qdmmcv6pf8.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1772678882_c1m2qdmmcv6pf8.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 10:48:02 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>领导人暴毙：一把手死了，咱们先内斗</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;领导人暴毙：一把手死了，咱们先内斗]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773138107_lydyqwmmkgjzub.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773138107_lydyqwmmkgjzub.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 18:21:47 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>第五舰队：在伊朗人梦里被打老惨了</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;第五舰队：在伊朗人梦里被打老惨了]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773199022_u99e9emmkeqzu0.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773199022_u99e9emmkeqzu0.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 11:17:02 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>领导人安保：缩壳王八也有探头的时候</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;领导人安保：缩壳王八也有探头的时候]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773290328_6926qfmmmz80n9.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773290328_6926qfmmmz80n9.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 12:38:48 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>邻国国丧：邻国领袖死了，本国人干什么？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;邻国国丧：邻国领袖死了，本国人干什么？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773371568_v5102fmmobl9ga.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773371568_v5102fmmobl9ga.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 11:12:48 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>诈死：哈梅内伊没死，下大棋呢！</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;诈死：哈梅内伊没死，下大棋呢！]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773651737_mq1hxmmmkg0iiw.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773651737_mq1hxmmmkg0iiw.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 17:02:17 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>“卧底”高官：哈梅内伊被自己人卖了？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;“卧底”高官：哈梅内伊被自己人卖了？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773822195_d88rspmmvrpszx.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773822195_d88rspmmvrpszx.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 16:23:15 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>商船改军舰：伊朗航母就这么来的</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;商船改军舰：伊朗航母就这么来的]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773830673_m5fmommmvwwu87.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773830673_m5fmommmvwwu87.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 18:44:33 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>五代吃人：乱世为何盛产食人魔？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;五代吃人：乱世为何盛产食人魔？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773975020_rv6p5bmmvvybqz.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1773975020_rv6p5bmmvvybqz.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2026 10:50:20 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>巴扎商人：伊朗资本家“辅佐”神棍上台？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;巴扎商人：伊朗资本家“辅佐”神棍上台？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1774321939_e5281mmn30ymfv.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1774321939_e5281mmn30ymfv.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 11:12:19 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>石油：伊朗要挟世界的筹码</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;石油：伊朗要挟世界的筹码]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1774409058_pqimgdmn4glznq.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1774409058_pqimgdmn4glznq.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 11:24:18 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>中立国扣留军舰：打仗了，伊朗军舰该往哪跑？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;中立国扣留军舰：打仗了，伊朗军舰该往哪跑？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1774434288_du9ro7mn5w91ur.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1774434288_du9ro7mn5w91ur.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 18:24:48 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>君主画像：穆杰塔巴用画像登基</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;君主画像：穆杰塔巴用画像登基]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1774584692_qdwai8mn8dudfi.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1774584692_qdwai8mn8dudfi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 12:11:32 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>海上封锁：伊朗靠什么封住霍尔木兹？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;海上封锁：伊朗靠什么封住霍尔木兹？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1774931520_t74vu2mn7bjd25.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1774931520_t74vu2mn7bjd25.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 12:32:00 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>秘不发丧：生死不明？那就是死了！</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;秘不发丧：生死不明？那就是死了！]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775016547_h3wil5mnfiw2og.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775016547_h3wil5mnfiw2og.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 12:09:07 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>美国买古巴：古巴值多少钱啊？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;美国买古巴：古巴值多少钱啊？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775102558_w22wu9mnfvrxto.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775102558_w22wu9mnfvrxto.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 12:02:38 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>伊朗基督教：放下屠刀，立地信耶稣</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;伊朗基督教：放下屠刀，立地信耶稣]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775185540_cmnrflmnibhaat.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775185540_cmnrflmnibhaat.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 11:05:40 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
-      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775635095_xho3h1mnoh0lm5.mp3</guid>
-      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775635095_xho3h1mnoh0lm5.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
-      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775708549_j53kq9mnqyypr1.mp3</guid>
-      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775708549_j53kq9mnqyypr1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
-      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775794249_yjz8nkmnrcgss0.mp3</guid>
-      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775794249_yjz8nkmnrcgss0.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
-      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776076458_dwbewmmmdctl66.mp3</guid>
-      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776076458_dwbewmmmdctl66.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
-      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776167119_4lc0fbmnyicco1.mp3</guid>
-      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776167119_4lc0fbmnyicco1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
-      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776248266_gqsjj5mnzwa61n.mp3</guid>
-      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776248266_gqsjj5mnzwa61n.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
-      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776335224_7x0n0bmo1a6d8t.mp3</guid>
-      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776335224_7x0n0bmo1a6d8t.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
-      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776654579_3uisnjmo2rg4ls.mp3</guid>
-      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776654579_3uisnjmo2rg4ls.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>战争与投机：发战争财，能长久吗？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;战争与投机：发战争财，能长久吗？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775213058_rp52ogmniq6kou.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775213058_rp52ogmniq6kou.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 18:44:18 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>古代男性审美：既喜欢大丈夫，又喜欢娘炮？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;古代男性审美：既喜欢大丈夫，又喜欢娘炮？]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775635095_xho3h1mnoh0lm5.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775635095_xho3h1mnoh0lm5.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Apr 2026 15:58:15 +0800</pubDate>
+    </item>
+    <item>
+      <title>古代武将审美：没肚子打不了仗？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;古代武将审美：没肚子打不了仗？]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775708549_j53kq9mnqyypr1.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775708549_j53kq9mnqyypr1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Apr 2026 12:22:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>男人化妆：真男人就涂粉底液</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;男人化妆：真男人就涂粉底液]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775794249_yjz8nkmnrcgss0.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1775794249_yjz8nkmnrcgss0.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Apr 2026 12:10:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>沙陀人：一军出六帝，铁蹄踏八方！</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;沙陀人：一军出六帝，铁蹄踏八方！]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776076458_dwbewmmmdctl66.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776076458_dwbewmmmdctl66.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Apr 2026 18:34:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>伊朗40天哀悼日：哈梅内伊停尸40天才下葬</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;伊朗40天哀悼日：哈梅内伊停尸40天才下葬]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776167119_4lc0fbmnyicco1.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776167119_4lc0fbmnyicco1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Apr 2026 19:45:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>哈尔克岛：四十多年，神棍全靠它续命？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;哈尔克岛：四十多年，神棍全靠它续命？]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776248266_gqsjj5mnzwa61n.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776248266_gqsjj5mnzwa61n.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Apr 2026 18:17:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>营救飞行员：珍惜生命，士兵才能卖命打仗 </title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;营救飞行员：珍惜生命，士兵才能卖命打仗 ]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776335224_7x0n0bmo1a6d8t.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776335224_7x0n0bmo1a6d8t.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Apr 2026 18:27:04 +0800</pubDate>
+    </item>
+    <item>
+      <title>翻牌：金石学能算考古学吗？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;翻牌：金石学能算考古学吗？]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776654579_3uisnjmo2rg4ls.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776654579_3uisnjmo2rg4ls.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Apr 2026 11:09:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>波斯民族主义：伊朗三千年历史咋算的？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;波斯民族主义：伊朗三千年历史咋算的？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776746116_a0hdi1mo831sve.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776746116_a0hdi1mo831sve.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2026 12:35:16 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>伊朗巴基斯坦关系：巴铁牵线，神棍才上桌？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;伊朗巴基斯坦关系：巴铁牵线，神棍才上桌？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776829897_8miuf5mo8gkpyf.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776829897_8miuf5mo8gkpyf.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 11:51:37 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>匈牙利政治：一句俄国人滚蛋，喊了170多年</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;匈牙利政治：一句俄国人滚蛋，喊了170多年]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776918473_0m74gimo9yrjwt.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776918473_0m74gimo9yrjwt.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2026 12:27:53 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>陪葬奔驰车：你这么孝，你爹死之前知道吗？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;陪葬奔驰车：你这么孝，你爹死之前知道吗？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776943348_hgp8qsmobe4jz3.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1776943348_hgp8qsmobe4jz3.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2026 19:22:28 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>中国人求普京要工资：相信大帝，也相信咱妈</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;中国人求普京要工资：相信大帝，也相信咱妈]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1777343830_0bru9zmoi0gpls.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1777343830_0bru9zmoi0gpls.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 10:37:10 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>美国选举与外交：为了选票，总统外交有多拼命？ </title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;美国选举与外交：为了选票，总统外交有多拼命？ ]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1777363633_2271ewmoh0x4bu.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1777363633_2271ewmoh0x4bu.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 16:07:13 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>法国与文物保护：祖宗传下来的是一套，抢来的是另一套</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;法国与文物保护：祖宗传下来的是一套，抢来的是另一套]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1777461007_okwca0moihe9fl.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1777461007_okwca0moihe9fl.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 29 Apr 2026 19:10:07 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
-      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778132382_89jdcbmov21vi9.mp3</guid>
-      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778132382_89jdcbmov21vi9.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
-      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778820622_xiywgjmp5b65r3.mp3</guid>
-      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778820622_xiywgjmp5b65r3.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
-      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779160059_prm4dwmpb2dbo0.mp3</guid>
-      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779160059_prm4dwmpb2dbo0.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>战争与烟草：大英要禁烟？士兵第一个不同意！</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;战争与烟草：大英要禁烟？士兵第一个不同意！]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1777461325_5ak8jwmojy68mj.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1777461325_5ak8jwmojy68mj.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 29 Apr 2026 19:15:25 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>汉口乐善堂：日本间谍想要联中抗俄？ </title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;汉口乐善堂：日本间谍想要联中抗俄？ ]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1777547822_0zeb35moihe9eg.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1777547822_0zeb35moihe9eg.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 30 Apr 2026 19:17:02 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>西方禁烟：沙皇割鼻子都管不住，大英就行？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;西方禁烟：沙皇割鼻子都管不住，大英就行？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778031920_tvg31ymote5thm.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778031920_tvg31ymote5thm.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 06 May 2026 09:45:20 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>82空降师：王牌师是怎样炼成的？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;82空降师：王牌师是怎样炼成的？]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778132382_89jdcbmov21vi9.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778132382_89jdcbmov21vi9.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 07 May 2026 13:39:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>胜利日阅兵：帝国梦不死，阅兵不断</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;胜利日阅兵：帝国梦不死，阅兵不断]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778215401_rr4kaqmovcypg7.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778215401_rr4kaqmovcypg7.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 12:43:21 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>美国控枪：持枪能反抗暴政吗？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;美国控枪：持枪能反抗暴政吗？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778556994_2rj0m1mp22soxs.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778556994_2rj0m1mp22soxs.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Tue, 12 May 2026 11:36:34 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>英王访美：没权力的国王来美国干嘛？ </title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;英王访美：没权力的国王来美国干嘛？ ]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778646648_kx3lysmp2hteov.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778646648_kx3lysmp2hteov.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 12:30:48 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>明清官员躺平：上梁不正下梁歪</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;明清官员躺平：上梁不正下梁歪]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778820551_wq8impmp6fl44c.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778820551_wq8impmp6fl44c.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 12:49:11 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>苏联反躺平：今天迟到扣工资，过去迟到进监狱</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;苏联反躺平：今天迟到扣工资，过去迟到进监狱]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778820622_xiywgjmp5b65r3.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1778820622_xiywgjmp5b65r3.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 May 2026 12:50:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>惩罚将领：打败仗不要紧，就怕你不忠诚  </title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;惩罚将领：打败仗不要紧，就怕你不忠诚  ]]&gt;</description>
+      <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779160059_prm4dwmpb2dbo0.mp3</guid>
+      <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779160059_prm4dwmpb2dbo0.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 19 May 2026 11:07:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>莫斯科防空：黄鹅嘴开光，“乌纳”要炸红场！</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;莫斯科防空：黄鹅嘴开光，“乌纳”要炸红场！]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779250663_1avh05mpch1n9x.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779250663_1avh05mpch1n9x.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 12:17:43 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>太监娶妻：鸡飞蛋打了，还能干啥？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;太监娶妻：鸡飞蛋打了，还能干啥？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779339962_sswnp6mpdup7de.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779339962_sswnp6mpdup7de.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:06:02 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>一妻多夫：妈妈有俩老公，谁玩“共妻”呢？</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;一妻多夫：妈妈有俩老公，谁玩“共妻”呢？]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779423251_thmyikmpgeio08.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779423251_thmyikmpgeio08.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 12:14:11 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>总统座驾：安全不绝对，就是绝对不安全</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;总统座驾：安全不绝对，就是绝对不安全]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779765634_xsmd8lmpgonlnu.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779765634_xsmd8lmpgonlnu.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 11:20:34 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>沙俄外交：打赢了不用外交，打输了外交保命 </title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;沙俄外交：打赢了不用外交，打输了外交保命 ]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779854694_p5v5ljmpmk0htp.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779854694_p5v5ljmpmk0htp.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 12:04:54 +0800</pubDate>
     </item>
     <item>
-      <title>未知单集</title>
-      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;未知单集]]&gt;</description>
+      <title>南洋华侨：此生无悔润华夏，来世还要帮反贼！</title>
+      <description>&lt;![CDATA[&lt;meta name="referrer" content="no-referrer"&gt;南洋华侨：此生无悔润华夏，来世还要帮反贼！]]&gt;</description>
       <guid isPermaLink="false">https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779938143_mjclmvmpox42cm.mp3</guid>
       <enclosure url="https://wechatapppro-1252524126.file.myqcloud.com/appq9jtJc2T2160/audio_compressed/1779938143_mjclmvmpox42cm.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 May 2026 15:28:55 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 11:15:43 +0800</pubDate>
     </item>
   </channel>
 </rss>
